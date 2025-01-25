@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**Adi27tya/Adi27tya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <Header>
+         <H1>
+             Portfolio
+            </H1>
+    </Header>
+    <b> Introduction:-</b><br> 
+    <p>              Hello I'm Aditya Singh. I am persuing my Bacheoler's degree from IIT Patna in Computer Science & data Analytics. <br>
+    I'm creating my first <b>Portfolio Project</b></p><br> 
+    <img src="IMG-Aditya.jpg" alt="Aditya Singh" height=" 200"<br> <Pre>       Aditya Singh</Pre> <br> 
+    <p> To see my Project &hands on experiences visit : <a href="https://www.linkedin.com/in/aditya-singh-676884332/"> LinkedIn</a></p>
+</body>
+</html>
